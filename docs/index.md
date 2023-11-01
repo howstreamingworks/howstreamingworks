@@ -17,3 +17,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files. -->
 
 # Introduction
+Video streaming is a continuous transmission of video files from a server to a client. Video streaming enables users to view videos online without having to download them.
+Streamed video content can include movies, TV shows, YouTube videos and livestreamed content.
+The term streaming refers to the continual transmission of audio and video files from a server to a client. In video streams, content is sent in a compressed form over the internet and is displayed by the viewer in real time. The media is sent in a continuous stream of data and is played as it arrives.

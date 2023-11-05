@@ -48,3 +48,5 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+    repo: fontawesome/brands/github
+  repo_url: https://github.com/howstreamingworks/howstreamingworks

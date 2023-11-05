@@ -1,4 +1,19 @@
-site_name: How Streaming Works
+# Project information
+site_name: How Streaming Qorks
+site_url: https://howstreaming.works
+site_author: howsreaming.works
+site_description: >-
+  Unlock the secrets of video streaming with HowStreaming.works -
+Your expert resource for everything from streaming basics to the technical depths of 
+DRM, encoding, formats, CDNs, and playback technology. 
+Get the knowledge you need to navigate the streaming landscape with ease.
+
+# Repository
+repo_name: howstreamingworks/howstreamingworks
+repo_url: https://github.com/howstreamingworks/howstreamingworks
+# Copyright
+copyright: Copyright &copy; 2024 - 2025 howstreaming.works
+
 theme:
   name: material
   # custom_dir: material/overrides
@@ -49,4 +64,3 @@ theme:
   icon:
     logo: logo
     repo: fontawesome/brands/github
-  repo_url: https://github.com/howstreamingworks/howstreamingworks
